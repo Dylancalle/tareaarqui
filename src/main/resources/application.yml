@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: FrankyService
+server:
+  port: 9090
+greeting:
+  message: "Preguntame si lo que esta haciendo hoy te acerca al lugar en el quieres estar manaña"
+
+dollarOfficial: 6.96
